@@ -128,7 +128,7 @@ body {
     flex-basis: auto;
     border-radius: 20px;
     background-color: lightblue;
-    filter: grayscale(80%);
+    filter: grayscale(50%);
 }
 
 .icon-img:hover {
